@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Кнопка ассистента</string>
+    <string name="service_name">Закрытие голосовой панели</string>
+    <string name="service_description">Проверяет, находится ли выбранная голосовая панель в фокусе, и закрывает её по повторной команде действием «Назад». Текст с экрана не сохраняется.</string>
+    <string name="choose_assistant">Выбрать ассистента</string>
+    <string name="manual_launch">Проверить запуск</string>
+    <string name="no_assistants_found">Среди установленных приложений нет обработчиков голосовой команды.</string>
+    <string name="no_assistant_selected">Ассистент не выбран</string>
+    <string name="cannot_launch_assistant">Android не удалось запустить этого ассистента.</string>
+    <string name="assistant_status">Ассистент: %1$s</string>
+    <string name="accessibility_settings">Настройки доступности</string>
+    <string name="enable_accessibility">Сначала включите службу «Закрытие голосовой панели».</string>
+    <string name="accessibility_status">Служба доступности: %1$s</string>
+    <string name="connected">подключена</string>
+    <string name="disconnected">отключена</string>
+    <string name="learn_panel">Настроить закрытие панели</string>
+    <string name="setup_instructions">Откройте голосовую панель, подождите секунду и нажмите системное «Назад», чтобы вернуться сюда. Подтвердите окно, только если ассистент открылся в голосовом режиме.</string>
+    <string name="open_panel">Открыть голосовую панель</string>
+    <string name="confirm_panel">Подтвердить найденное окно</string>
+    <string name="confirm_instructions">Подтвердите, только если вы увидели голосовую панель и действие «Назад» закрыло её.</string>
+    <string name="save_panel">Сохранить голосовую панель</string>
+    <string name="reset_panel">Сбросить голосовую панель</string>
+    <string name="panel_candidate">Окно найдено. Подтвердите его, чтобы включить закрытие.</string>
+    <string name="panel_not_detected">Голосовую панель распознать не удалось. Попробуйте настроить её ещё раз.</string>
+    <string name="panel_not_configured">Закрытие панели не настроено.</string>
+    <string name="panel_configured">Закрытие панели настроено.</string>
+    <string name="assistant_settings">Настройки помощника Android</string>
+    <string name="prefer_assist">Сначала пробовать ASSIST</string>
+    <string name="observe_only">Только записывать команды</string>
+    <string name="refresh_journal">Обновить журнал команд</string>
+    <string name="no_commands">Пока нет команд.</string>
+</resources>

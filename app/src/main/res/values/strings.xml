@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assistant Button</string>
+    <string name="service_name">Close the voice panel</string>
+    <string name="service_description">Checks whether the selected voice panel has focus and closes it with Back on a repeat command. Screen text is never saved.</string>
+    <string name="choose_assistant">Choose assistant</string>
+    <string name="manual_launch">Test assistant launch</string>
+    <string name="no_assistants_found">No installed assistants accept a voice intent.</string>
+    <string name="no_assistant_selected">No assistant selected</string>
+    <string name="cannot_launch_assistant">Android could not start this assistant.</string>
+    <string name="assistant_status">Assistant: %1$s</string>
+    <string name="accessibility_settings">Accessibility settings</string>
+    <string name="enable_accessibility">Enable the Close the voice panel service first.</string>
+    <string name="accessibility_status">Accessibility service: %1$s</string>
+    <string name="connected">connected</string>
+    <string name="disconnected">disconnected</string>
+    <string name="learn_panel">Set up panel closing</string>
+    <string name="setup_instructions">Open the voice panel, wait a second, then press Android Back manually to return here. Confirm the window only if the assistant opened in voice mode.</string>
+    <string name="open_panel">Open voice panel</string>
+    <string name="confirm_panel">Confirm detected window</string>
+    <string name="confirm_instructions">Confirm only if you saw the voice panel and Back closed it.</string>
+    <string name="save_panel">Save voice panel</string>
+    <string name="reset_panel">Reset voice panel</string>
+    <string name="panel_candidate">A window was detected. Confirm it to enable closing.</string>
+    <string name="panel_not_detected">The voice panel could not be identified. Try setting it up again.</string>
+    <string name="panel_not_configured">Panel closing is not configured.</string>
+    <string name="panel_configured">Panel closing is configured.</string>
+    <string name="assistant_settings">Android assistant settings</string>
+    <string name="prefer_assist">Try ASSIST first</string>
+    <string name="observe_only">Log commands only</string>
+    <string name="refresh_journal">Refresh command log</string>
+    <string name="no_commands">No commands recorded yet.</string>
+</resources>
